@@ -1076,7 +1076,7 @@ body.light-theme {
   }
 
   .contact__container {
-    grid-template-columns: repeat(2, 325px);
+    grid-template-columns: repeat(1, 325px);
     justify-content: center;
   }
 } */
@@ -1207,7 +1207,7 @@ body.light-theme {
   }
 
   .contact__container {
-    grid-template-columns: repeat(2, 430px);
+    grid-template-columns: repeat(1, 430px);
     column-gap: 6rem;
   }
 
